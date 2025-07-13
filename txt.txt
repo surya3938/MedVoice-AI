@@ -1,0 +1,5 @@
+MedVoice AI – Conversational Healthcare AI Assistant
+Engineered an AI-powered voice assistant that transcribes spoken medical queries and generates contextually relevant responses for healthcare professionals and patients.
+Integrated LLAMA2 and Gemini 2.0 NLP models, fine-tuned with medical datasets to improve the accuracy of medical terminology understanding.
+Developed voice input, transcription, and text-to-speech synthesis, enabling hands-free, multilingual interactions.
+Focused on secure, real-time processing with an emphasis on data privacy and accessibility for diverse user groups.
